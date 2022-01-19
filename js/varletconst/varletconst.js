@@ -12,6 +12,7 @@ vamos aprender los variables */
 // apellido = "Olivares";
 // var 13co14l = 'cualquiercosa'; // no puedne comenzar con un numero ni contener un numero en su inicio
 var nombre = "Pedro";
+// nombre = 20;
 var edad = 30;
 
 /* Problema: estamos declarando 2 veces la misma variable y le estamos cambiando el valor */

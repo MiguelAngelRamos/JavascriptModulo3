@@ -18,5 +18,8 @@ function sumar(a, b) {
 // }
 
 // console.log(sumar(numero1, numero2));
-let resultadoSumar = sumar(100, 120);
+const resultadoSumar = sumar(220, 100);
+
+// resultadoSumar = 1000 + resultadoSumar;
+
 console.log(resultadoSumar);

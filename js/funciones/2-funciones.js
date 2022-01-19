@@ -9,7 +9,7 @@ function sumar() {
   console.log('Hola desde funcion sumar');
 }
 
-// de llamar una funcion 
+// de llamar, invocar una funcion 
 sumar();
 
 // funciones anonimas
@@ -30,12 +30,13 @@ sumarTres();
 
 // Arrow function con retorno
 
-// const sumarC = (a, b) => {
-//   return a + b;
-// }
+const sumarC = (a, b) => {
+  return a + b;
+}
 
 const sumarC = (a, b, c) => a + b + c;
+
+
 const resultadoC = sumarC(14, 16, 20);
 console.log(resultadoC);
-
 

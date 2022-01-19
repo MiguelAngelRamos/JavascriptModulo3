@@ -6,11 +6,11 @@ con los "objetos" y "arreglos"
 
 // const arrayNumero:String = ['20', '30']; // Un error. por que este arreglo solo admite String.
 const arrayNumero = [10, 20, 30, 'Hola mundo'];
-console.log(arrayNumero);
+console.log(arrayNumero); // [10, 20, 30, 'Hola mundo'];
 console.log(arrayNumero[2]); // 30
 arrayNumero.push(200);
 // Indices siempre comienzan en 0
-console.log(arrayNumero);
+console.log(arrayNumero); // [10, 20, 30, 'Hola mundo', 200];
 /*
  Cuando declaramos un array u objeto como constante y usamos la funcion push, nos permite añadir un nuevo elemento
 */
@@ -28,3 +28,8 @@ console.log(persona.nombre); // Miguel
 persona.nombre = 'Angel'; // cambiando una propiedad de un objeto constante
 
 console.log(persona);
+
+// const persona = {
+//   nombre: 'Angel',
+//   lenguaje: 'Javacript'
+// }

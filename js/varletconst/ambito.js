@@ -21,10 +21,10 @@ let altura = 400;
 if(true) {
   // scope del if
   let alturaIf = 20;
-  console.log(alturaIf);
+  console.log(alturaIf); // 20
 }
-console.log(alturaIf);
-console.log(altura);
+console.log(alturaIf); // no existe
+console.log(altura); // 400
 
 // let si respeta el scope o ambito del if y no altera lo que tiene el scope superior
 

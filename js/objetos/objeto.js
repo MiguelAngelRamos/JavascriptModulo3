@@ -1,4 +1,4 @@
-// Objetos en javascript
+// Objetos en javascript de tipo dinamico
 const mascota = {
   nombre: 'Rocky',
   edad: 4,
@@ -20,4 +20,20 @@ console.log(mascota.razas[3]);
 mascota.id = 1;
 console.log(mascota);
 
+// const mascota = {
+//   id: 1,
+//   nombre: 'Rocky',
+//   edad: 4,
+//   vivo: true,
+//   razas: ['pitbull', 'dogo', 'pastor aleman', 'boxer']
+// }
+
+
+// Valores enteros int o Integer aquellos valores numericos que no tienen punto decimal
+// 1, 2, 3, 50, 100, 500
+
+
+// Valores numericos que tienen punto decimal, Float
+
+// 1.2, 25.5 100.76 etc.
 
