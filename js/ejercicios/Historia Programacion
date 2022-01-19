@@ -1,0 +1,175 @@
+Python                         Facil Usar, Facil Aprender, La Sintaxis es muy parecida al lenguaje natural (Ingles).
+                               Se omite el uso de {}  y solo se utiliza espacios (4 espacios).
+
+                               Ciencia de Datos o Machine Learning (Aprendizaje Automatico)
+                               Deep Learning (Aprendizaje Profundo) Inteligencia Articial ( Redes Neuronales Artificiales.)
+
+                               Economistas, Medicina, Cientificos de distintas Areas, Ingenierios en Informatica.
+                                
+                               Ciencia Datos 
+                               - Estadistica
+                               - Algebra Lineal
+                               - Calculo
+                              
+                               
+                               Desarrollo Web (Django y Flask)
+                               Servicios Rest API 
+                               Conectar con Base de Datos.
+
+                               FrontEnd
+                               React, Vue y Angular
+
+                               Backend 
+                               Python (Django o Flask)
+
+                               Hacer Aplicaciones para Escritorio
+                               Tkinter
+
+
+                               
+Javascript                     
+                              Por que es el unico Lenguaje que entiende el Navegador. 
+                              Netcape y Internet Explorer 4, 5, 6.
+
+                              Brave (Chromium)
+                              Opera (Chromium)
+                              Edge (Chromium)
+                              1 una semana (Javascript) => Java (Sun MicroSystem) adquirida por Oracle (Java)
+
+                              El uso formulario (Capturar información y almacenarla en una base de datos)
+                              Sistemas Web.
+
+                              Php y Mysql (Desarrollo Web, Sistemas Monoliticos.) No esta separado el front end y del backend.
+
+                              Sistema Monolitico.
+
+                              EmacScript tomo el Javascript. ES6 ES9 (2020) BABEL JS
+
+                              Dividirlo
+
+                              Fron end 
+                                       Vue, React (Hooks), Angular, (Svelte TypeScript)
+
+
+                              Backend
+                                      Php, Java, .net (c#), Ruby, Python, JavaScript( Node con motor V8 ), Asp.net
+
+
+                              Motor V8 de Chrome y llevarlo al Backend. 
+
+                              Node js (V8 Chrome)
+
+
+                              Aplicaciones Moviles (Multiplataforma Android y para IOS)
+                              =========================================================
+
+                              React Native, Ionic (Angular, Vue y React), NativeScript
+
+
+                              Aplicaciones de Escritorio
+                              ==========================
+                              Electron.
+
+                              JAVASCRIPT SE PUEDEN CONVERTIR EN DESARROLLADORES FULL STACK
+                              ============================================================
+
+                              MEAN
+                              ====
+                              Base de Datos = Mongodb (json, bson javascript es base no relacional, trabaja en base documentos)
+                              Servidor = Express (MicroFramework entorno Node, Javascript)
+                              FrontEnd = Angular
+                              Entorno de ejecución = Node.
+
+                              MERN
+                              ====
+                              Base de Datos = Mongodb (json, bson javascript es base no relacional, trabaja en base documentos)
+                              Servidor = Express (MicroFramework entorno Node, Javascript)
+                              FrontEnd = React
+                              Entorno de ejecución = Node.
+
+                              MEVN
+                              ====
+                              Base de Datos = Mongodb (json, bson javascript es base no relacional, trabaja en base documentos)
+                              Servidor = Express (MicroFramework entorno Node, Javascript)
+                              FrontEnd = Vue. (HTML, CSS, NODE, "JAVASCRIPT" 100 HRS)
+                              Entorno de ejecución = Node.
+
+
+
+
+Java                          Es lenguaje orientado a objeto (99.9%, uso uso de primitivos 1%), todo es un objeto.
+                              .net y Java (Open Source y Multiplataforma (GNU/linux, OSX, Windows)) Maquina Virtual (JVM)
+
+                              Inteligencia Artificial ( Java con Redes neuronales, no existian librerias como tensorflow o keras)
+                              
+                              Java crear sistemas monoliticos (html, css y java (jsp)) (monoliticos)
+
+                              Frontend 
+
+
+                              Backend
+
+                                Netflix
+
+                                Modularizar el backend (Microservicios)
+
+                                Spring boot (Api Rest, Micro-servicios) y Jakarta.
+
+                              
+                            Aplicaciones Moviles
+
+                            Android Java y Kotlin trabaja con la JVM.
+
+                            JAVA Oracle
+
+
+
+
+
+C#                          Excelente POO, microservicios, Api Rest, Servicios SOAP.
+                            Programacion Multi hilo, el socket.
+
+                            .net core .net5 es open source.
+                            
+                            CEO - Satya Nadella
+
+                            Microsoft
+                            Git Hub.
+                            VsCode
+                            Aporta bastante al open Source.
+
+                            El Creador Python es empleado de Microsoft.
+
+
+Php                         
+                            Permisivo, te permite programar como se te ocurra.
+
+                            Es el codigo spaggeti.
+
+                            80% de la Web. php version 8 ha recibido bastante.
+                            
+                            Framework
+                            Laravel, Symphony, Codeigniter y CakePHP.
+
+
+
+Backend
+=======
+
+C, C++
+
+Ruby  => Ruby on Rails
+
+Cobol
+
+
+Css
+====
+Tailwind
+
+Movil
+=====
+Google (Angular, Flutter y Android)
+
+Dart el lenguaje de Programación.
+Flutter = Framework nos permite desarrolladar aplicaciones Movil tanto IOS como para Android.
