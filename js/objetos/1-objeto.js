@@ -1,4 +1,6 @@
 // Objetos en javascript de tipo dinamico
+
+// Un Objeto Literal
 const mascota = {
   nombre: 'Rocky',
   edad: 4,
@@ -8,6 +10,7 @@ const mascota = {
 
 console.log(mascota); 
 console.log(mascota.nombre);// Rocky
+console.log(mascota['nombre']); // rocky
 console.log(mascota.edad); // 4
 console.log(mascota.vivo); // true
 console.log(mascota.razas[0]);

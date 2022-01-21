@@ -19,7 +19,8 @@ y es usado para disminuir el uso excesivo de callback */
 // 13 lineas de código
 
 const myPromise = new Promise((resolve, reject) => {
-  const suma = 15-5;
+  const suma = 20-5;
+  console.log(suma == 10); // true o falso
   suma == 10?resolve('Es correcto es igual a 10'):reject('No es correcto');
 })
 

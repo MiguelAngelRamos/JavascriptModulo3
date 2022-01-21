@@ -19,4 +19,4 @@ apiSimulator().then(function(producto) {
   console.log(producto);
 }).catch(function(e) {
   console.log(e);
-})
+});
