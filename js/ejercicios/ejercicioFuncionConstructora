@@ -1,0 +1,9 @@
+Object constructor
+==================
+Crea una funcion constructora (objeto) y crea 2 objetos de producto.
+
+- precio
+- disponible
+- proveedor
+- nombre
+

@@ -1,5 +1,5 @@
 // La forma de recorrer un vector
-const productos = ['Televisor', 'Mouse', 'Notebook', 'Reloj', 'refrigerador']; // 0-3 indices
+const productos = ['Televisor', 'Mouse', 'Notebook', 'Reloj', 'refrigerador']; // 0-4 indices
 
 // es valido pero no recomendable para recorrer un vector
 // console.log(productos);

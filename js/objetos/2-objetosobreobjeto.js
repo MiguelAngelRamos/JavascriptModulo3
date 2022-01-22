@@ -12,8 +12,8 @@ const sitioWeb = {
 }
 
 // guarden en una constante llama enlaceYoutube 
-// const enlaceYoutube = sitioWeb.redesSociales.youtube.enlace;
-// console.log(enlaceYoutube);
+const enlaceYoutube = sitioWeb.redesSociales.youtube.enlace;
+console.log(enlaceYoutube);
 
 // Destructuring (Desmenuzar)
 const { enlace, nombre } = sitioWeb.redesSociales.youtube;

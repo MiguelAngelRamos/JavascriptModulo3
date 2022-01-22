@@ -21,4 +21,7 @@ const matrix = [
                
 console.table(matrix);
 console.log(matrix[0][1]);
-console.log(matrix[1][2])
+console.log(matrix[1][2]);
+
+console.error(); // Rojo
+console.warn(); // warning

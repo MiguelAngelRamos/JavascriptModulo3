@@ -19,4 +19,5 @@ const {nombre, redesSociales, redesSociales: { youtube: { enlace } } } = sitioWe
 
 console.log(nombre);
 console.log(redesSociales);
+// sitioWeb.redesSociales.youtube.enlace;
 console.log(enlace);

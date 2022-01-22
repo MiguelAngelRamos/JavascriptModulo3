@@ -25,13 +25,13 @@ carrito.push(producto);
 carrito.push(producto2);
 carrito.push(producto4);
 // unshift, agregar al inicio
-//carrito.unshift(producto3)
+carrito.unshift(producto3)
 
 // Eliminar elementos de un Arreglo al final
- //carrito.pop();
+ carrito.pop();
 
 // Eliminar elementos al comienzo
- //carrito.shift();
+ carrito.shift();
 // Resultado
  console.log(carrito);
 

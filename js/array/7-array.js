@@ -5,6 +5,8 @@ const producto = {
 }
 
 const { nombre, precio } = producto;
+// producto.nombre
+// nombre
 // console.log(nombre);
 // console.log(precio);
 
@@ -12,7 +14,7 @@ const { nombre, precio } = producto;
 
 const numeros = [10, 400, 10040, 111];
 
-const [,,,cuarto] = numeros;
+const [,,tercero] = numeros;
 // console.log(primero);
 // console.log(segundo);
 // console.log(cuarto);
@@ -23,6 +25,6 @@ const [,,,cuarto] = numeros;
 // Quiero obtener el primero elemento y segundo elemento, el resto elementos generarlos en un vector independiente
 
 const [primero, segundo, ...tercero] = numeros;
-console.log(primero);
-console.log(segundo);
-console.log(tercero);
+console.log(primero); // 10
+console.log(segundo); // 400
+console.log(tercero); // [10040, 111]
