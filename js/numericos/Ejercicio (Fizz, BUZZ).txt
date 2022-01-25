@@ -1,0 +1,9 @@
+Ejercicio (Fizz, BUZZ) 
+======================
+
+Si un número es multiplo de 3 imprimos "FIZ", si es múltiplo de 5 imprimos BUZZ
+y si es múltiplo de ambos como por ejemplo 30, 45, 15
+
+- 1 a 100 (ciclo for loop)
+- encontrar los divisores vamos utilizar % 
+- necesitamos condicionales if

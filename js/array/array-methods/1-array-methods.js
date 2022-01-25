@@ -5,7 +5,7 @@
  */
 const numeros = [10, 20, 30, 40];
 
-// const resultMap = numeros.map( number => {
+// const resultMap = numeros.map( (number) => {
 //   return number*2;
 // });
 
@@ -13,13 +13,13 @@ const resultMap = numeros.map( number => number*2);
 
 console.log(resultMap);
 
-/** familiarizandonos con el JSX */
+/* familiarizandonos con el JSX */
 /* Escribiendo html en javascript*/
 
 const usuarios = [
   { id: 1, name: 'Pedro'},
   { id: 2, name: 'Juan'},
-  { id: 3, name: 'Diego'}
+  { id: 3, name: 'Diego'},
 ];
 
 // const resultadoJsx = usuarios.map((user)=> {
@@ -27,3 +27,6 @@ const usuarios = [
 // });
 const resultadoJsx = usuarios.map(user => `<li>${user.name}</li>`);
 console.log(resultadoJsx);
+
+// ul y ol 
+
