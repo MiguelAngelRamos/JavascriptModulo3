@@ -23,6 +23,7 @@ const isPalindromo = ( palabra ) => {
   } else {
     return false;
   }
+  // return inverso === palindromo ? true: false;
 
 }
 
